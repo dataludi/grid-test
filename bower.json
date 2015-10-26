@@ -1,0 +1,16 @@
+{
+  "name": "grid",
+  "homepage": "https://github.com/dataludi/grid",
+  "authors": [
+	  "dataludi <dataludi@dataludi.com>"
+  ],
+  "description": "DataLudi Grid, Web Grid JS Library",
+  "dependencies": {
+    "jszip": "~2.5.0"
+  },
+  "main": "dataludi.min.js",
+  "keywords": [
+	  "grid",
+	  "dataludi"
+  ]
+}
